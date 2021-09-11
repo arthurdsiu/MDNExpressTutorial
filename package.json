@@ -1,0 +1,22 @@
+{
+  "name": "mdnexpresstutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurdsiu/MDNExpressTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurdsiu/MDNExpressTutorial/issues"
+  },
+  "homepage": "https://github.com/arthurdsiu/MDNExpressTutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
